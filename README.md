@@ -2,7 +2,7 @@
 
 **Conforme** is a C++ library purpose-built to **build, consume, process, validate, and manage Open Vulnerability Assessment Language (OVAL) content**. [CIS OVAL REPO](https://github.com/CISecurity/OVALRepo) 
 
-The library was developed to support the **authoring, validation, and lifecycle management of OVAL submissions presented to MITRE and the Center for Internet Security (CIS)**, with an explicit emphasis on correctness, determinism, and strict standards adherence. It is not a generic XML toolkit. It is a domain-specific implementation designed for practitioners who produce and maintain submission-grade OVAL content. 
+The library was originally authored for internal/confidential/sensitive development to support the **authoring, validation, and lifecycle management of OVAL submissions presented to MITRE and the Center for Internet Security (CIS)**, with an explicit emphasis on correctness, determinism, and strict standards adherence. It is not a generic XML toolkit. It is a domain-specific implementation designed for practitioners who produce and maintain submission-grade OVAL content.
 
 If you are generating OVAL artifacts that must withstand formal review, schema validation, and real-world operational use, this library exists to support that outcome.
 
